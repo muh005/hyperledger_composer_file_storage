@@ -1,9 +1,3 @@
-# Screenshots
-
-![alt text](./modules/v0/assets/ibm_instructor.png)
-
-![alt text](./modules/v0/assets/stackoverflow_question.png)
-
 # composer-storage-ways
 
 Test environment and random stuff for hyperledger fabric and composer
